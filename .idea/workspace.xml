@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1bc34006-2a07-4b43-8395-8e5b86f3e600" name="Changes" comment="main 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master-alejandroBranch" />
+    <option name="BRANCH" value="origin/branchAlejandro" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -96,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master-alejandroBranch" />
+                        <option value="branchAlejandro" />
                       </list>
                     </value>
                   </entry>
